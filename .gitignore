@@ -1,0 +1,45 @@
+# Arquivos e diretórios específicos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup
+*~
+*.bak
+*.swp
+
+# Diretórios de saída de compilação
+build/
+dist/
+*.egg-info/
+
+# Arquivos de ambiente virtual
+.venv/
+venv/
+ENV/
+
+# Arquivos de configuração local
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de log
+*.log
+logs/
+
+# Arquivos de teste e cobertura
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Arquivos de dependências
+.pyc
+*.pyc
+__pycache__/
+
+# Arquivos de distribuição
+*.tar.gz
+*.zip
+
+# Arquivos específicos do seu projeto
+# Adicione outros arquivos ou diretórios específicos do seu projeto que você não deseja incluir no controle de versão
