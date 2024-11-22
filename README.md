@@ -1,6 +1,6 @@
-# RedisPlay CLI
+# ReDisplay CLI
 
-RedisPlay é uma ferramenta de linha de comando (CLI) que permite ajustar facilmente a temperatura da cor do seu monitor usando o comando `xrandr`. Com o RedisPlay, você pode alterar rapidamente a temperatura da cor para quente, frio ou normal, proporcionando uma experiência visual mais confortável e personalizada.
+ReDisplay é uma ferramenta de linha de comando (CLI) que permite ajustar facilmente a temperatura da cor do seu monitor usando o comando `xrandr`. Com o ReDisplay, você pode alterar rapidamente a temperatura da cor para quente, frio ou normal, proporcionando uma experiência visual mais confortável e personalizada.
 
 ## Recursos
 
